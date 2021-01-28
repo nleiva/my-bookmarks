@@ -5,7 +5,10 @@
 
 ---
 
-My Bookmarks.
+List of my public bookmarks.
+
+## Personal
+- [My Blog Posts](https://github.com/nleiva/blog-posts)
 
 ## Automation
 - [Ansible](https://github.com/nleiva/ansible-links)
