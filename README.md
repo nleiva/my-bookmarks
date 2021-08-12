@@ -11,7 +11,7 @@ List of my public bookmarks.
 - [My Blog Posts](https://github.com/nleiva/my-stuff)
 
 ## Automation
-- [Ansible](https://github.com/nleiva/ansible-links)
+- [Ansible](https://nleiva.github.io/ansible-links/)
 
 ## Kubernetes
 - [Kubernetes Networking](https://github.com/nleiva/kubernetes-networking-links)
